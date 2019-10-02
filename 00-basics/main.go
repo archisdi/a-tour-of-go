@@ -4,4 +4,5 @@ func main() {
 	funcAndVar()
 	types()
 	flow()
+	moretypes()
 }
